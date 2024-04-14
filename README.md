@@ -6,7 +6,8 @@ This project entails a comprehensive analysis of flight delays and cancellations
 
 ### Datasets
 Dataset 1: [Airline Delay and Cancellation Data, 2009 - 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018)
+<br/>
 Dataset 2: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/usdot/flight-delays)
 
 ### Acknowledgements
-All data files are downloaded from [OST website](https://www.transtats.bts.gov/Homepage.asp), which stores flights on-time performance fro 1987 to present.
+All data files are downloaded from [OST website](https://www.transtats.bts.gov/Homepage.asp), which stores flights on-time performance from 1987 to present.
